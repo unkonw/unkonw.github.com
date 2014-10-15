@@ -1,0 +1,19 @@
+# Site settings
+title: FAUST'S CAT 
+email: info@voidcat.org
+description: "FAUST'S CAT HOME"
+baseurl: ""
+url: "voidcat.org"
+username: 'voidcat'
+highlighter: pygments
+repository: "https://github.com/voidcat"
+paginate: 10
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: :title
+
+# chart_apis
+chart_apis: http://chart.apis.google.com/chart?cht=tx&chl=
