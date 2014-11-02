@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 英语作文->作死后果（How to deal with 无聊）
+title: 英语作文->干掉无聊
 category: open
 ---
 ###前情提要

@@ -4,6 +4,10 @@ title: 成为Jane
 category: open
 ---
 
+- 爱情，是一种怪事
+
+<img class="cover" src="/images/2014/10/f1eae4a40f4bfbfaed04fa.jpg" />
+
 在那个年代里，富有自主意识的女性似乎不受欢迎。
 
 In that era, the independent women seem to be unwelcome.And Jane is the one.
@@ -81,3 +85,4 @@ I loved you, never forget you.
 
 ---
 只是一部好电影，它值得有个好影评。以上为草作，待续FCAT
+
