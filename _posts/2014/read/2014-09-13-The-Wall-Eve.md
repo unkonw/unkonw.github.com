@@ -6,11 +6,12 @@ category: read
 
 <img class="cover" src="/images/2014/9/930091416.jpg" />
 
-这部片子我给9.9分（因为我是缺一主义者哈）
+这部片子我给9.9分（因为我是缺一主义者蛤）
 
 最暖心的话  
- - Eve ：*Wall~*
- - Wall：*Eve~~*
+
+ - Eve ：*Waalllll~~~*
+ - Wall：*Eeeevvee~~~*
  
 ##About 瓦力生活录
 
@@ -18,13 +19,13 @@ category: read
  - 有性情{收集自己所爱=不要砖石要盒子}
  - 心中有所向往的美好地方{录像带中所期待的0 0}
 
- 瓦力的生活就是这么安静，直到有一天，Crash Eve！
+ 瓦力的生活如此安静单调，直到有一天，Crash Eve！
  
 <img class="cover" src="/images/2014/9/930091832.jpg" />
 
  - I must persuade 
  - Follow and protect Eve all the way
- - Let me as Gift and 分享所爱之物  
+ - Let me as Gift and share my love 
 
 BUT *Eve Sleeping*
  - 保护 关心 守候 陪伴
@@ -38,8 +39,8 @@ Wall fixed done,but just a machine，no mood ，no name-only work
 
 Captai：the life is not only include 娱乐/消费/快活,我想自己作事，I NO just alive.
 
-- 又想起另一部电影`狂想曲`,
-- 最后校长对许愿者的话:	你只要快乐，那么没有不快乐，你又怎么分得出来你快不快乐呢？
+- 又想起另一部电影`狂想曲`,其中结尾校长对许愿者说:
+- "你只想要快乐，那么没有不快乐，你又怎么分得出来你快不快乐呢？"
 - **一击必杀的游戏**  与  **被一击必杀的游戏**  同样失去乐趣、意义
 
 ##I WANT A COLORFUL LIFE  
@@ -48,7 +49,7 @@ Captai：the life is not only include 娱乐/消费/快活,我想自己作事，
 	although it was a comfortable pig.
 
 后文推荐：
- - [里欧大冒险](http://baike.baidu.com/subview/3646682/11071253.htm?fr=aladdin)
- - [人工智能](http://baike.baidu.com/subview/2949/5816870.htm?fr=aladdin)
 
-PS:发个牢骚，学校的校园网我真心想说FXXK！完毕！
+ - [里欧大冒险](http://baike.baidu.com/subview/3646682/11071253.htm?fr=aladdin)
+ 
+ - [人工智能](http://baike.baidu.com/subview/2949/5816870.htm?fr=aladdin)
