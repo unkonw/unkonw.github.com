@@ -1,14 +1,21 @@
 ---
 layout: post
-title: 英语作文->建立自信
+title: 英语作文『建立自信』
 category: open
 ---
-前话：中教英语老师在批改网上发布英语作文，而我又知其网站批改我的作文主要依靠的是
+
+//标签：英语
+
+####前话
+
+中教英语老师在批改网上发布英语作文，而我又知该网站批改作文主要依靠
 常见句型来提高分数。【恩恩我啥句型都不会】->φ(≧ω≦*)♪ 米兔米兔，高考后都忘光光了
 
-特此自娱自乐，把作文内容当作一次提问，而我来回答[中文]->给UNKNOW任务，翻译英文
-（我6号前交哦）。【关我啥事】->(lll￢ω￢)UNKONW的大恩大德，我。。。
+在此自娱自乐，把作文内容当作一次提问，而我来回答『中文形式』
+剩下的交給UNKNOW（大恩大德之人）来翻译英文（我6号前交哦）。【关我啥事】
+
 ---
+
 [作文号:361369] Building Up Self-Confidence(2014-09-26)
 
 要求：
@@ -17,9 +24,11 @@ category: open
 
 2. How to build up self-confidence?  
 
-- You are required to write a composition of about 120-150 words.
+< You are required to write a composition of about 120-150 words.
+
 ---
-####转换为提问："如何建立自信？" |How to build up self-confidence?
+
+####转换为提问：『如何建立自信？』|"How to build up self-confidence?"
 
 Answer：
 
@@ -29,7 +38,7 @@ Answer：
 
 - If someone lose his/her heart,lots of opportunities will lose from their hand so that they can not develop real ability.They will afraid to do anything let alone the challenge.
 
-- 一个不自信的人处于被动地位，只等着别人去推你去鼓励你去尝试。->要知道，那样的人可不多。（I can't I can't 我什么事也做不好）
+- 一个不自信的人处于被动地位，只等着别人去推你去鼓励你去尝试。要知道，那样的人可不多。
 
 - A person without self-confidence is in a passive position and they always waiting other people to push、encourage them to try to do everything.——You know there are few people will choose this way.
 
@@ -47,27 +56,27 @@ Answer：
 
 3. Endeavor?Right!
 
-```
-整洁的外表而不是装饰的挎包
-优雅的姿势而不是华丽的衣服
-亲人的话语而不是红艳的彩唇
-多识的头脑而不是数钱的双手
-->灵感来自某个女明星的话语，抱歉我忘了名字
-```
-
 4. Just do it!不必在意别人的眼光，其实，很少有人会真正在意你的。
+
 4. 放手去做吧！Don't have to care about other people's eye,Cuz there are very few people will really notice you.
 
 ####最后
 
 ```
-有一天夜晚，我突然想在学校里跑步，一开始还生涩于被人笑话。
-之后才发现，1.夜色苍茫，看不清脸;2.他们最多会看你一眼
-感谢那位半夜大声读英语的男孩，让我知道，根本不会有人在意你的
-尽管去做吧，要突破的就只有你自己这道坎而已
+有一天夜晚，我突然想在学校里跑步，但羞涩于被人笑话。
+过后才发现 1.夜色苍茫，看不清你的脸。2.他们最多看一眼。
+感谢那位半夜大声读英语的男孩，让我知道，根本不会有人在意你的。
+尽管去做吧，要突破的就只有你自己这道坎而已。
+
+整洁的外表而不是装饰的挎包
+优雅的姿势而不是华丽的衣服
+亲人的话语而不是红艳的彩唇
+多识的头脑而不是数钱的双手
+        ——by某女星
 ```
 
 ---
+
 - 批改网提交附图78分嘿嘿嘿~
 
 <img class="cover" src="/images/2014/10/Others/20141005105958.jpg" />
