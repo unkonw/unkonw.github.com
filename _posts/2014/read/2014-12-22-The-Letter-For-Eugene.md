@@ -43,9 +43,8 @@ Last thing is Merry Christmas!
 
 Cheer!( ゜- ゜)つロ~乾杯~ロ<(￣▽￣)
 
-                   ---写于12-22冬至
-                   
-                        Edward
+>                      12-22冬至
+>                      Edward
 
 Ps:The reason for writing this letter by English(although cotain many syntax errors)
 
