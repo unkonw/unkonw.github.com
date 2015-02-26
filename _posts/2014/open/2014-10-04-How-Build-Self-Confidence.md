@@ -24,7 +24,7 @@ category: open
 
 2. How to build up self-confidence?  
 
-< You are required to write a composition of about 120-150 words.
+> You are required to write a composition of about 120-150 words.
 
 ---
 
@@ -62,18 +62,18 @@ Answer：
 
 ####最后
 
-```
+>
 有一天夜晚，我突然想在学校里跑步，但羞涩于被人笑话。
 过后才发现 1.夜色苍茫，看不清你的脸。2.他们最多看一眼。
 感谢那位半夜大声读英语的男孩，让我知道，根本不会有人在意你的。
 尽管去做吧，要突破的就只有你自己这道坎而已。
-
+>
 整洁的外表而不是装饰的挎包
 优雅的姿势而不是华丽的衣服
 亲人的话语而不是红艳的彩唇
 多识的头脑而不是数钱的双手
         ——by某女星
-```
+>
 
 ---
 
