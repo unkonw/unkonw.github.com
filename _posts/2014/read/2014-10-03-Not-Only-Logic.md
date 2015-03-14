@@ -11,7 +11,7 @@ Faust站在光标处看着昔日的村庄已不成样，感慨万千。拿出黄
 
 - 僵尸猪大军逐渐向Faust靠拢
 
-<img class="cover" src="/images/2014/10/read/MC-CJC/read/MC-CJC/2014-10-03_13.06.16.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/read/MC-CJC/2014-10-03_133.jpg" />
 
 在僵尸猪大军一个接着一个迈入Faust激活好的地狱之门时，有几个伪装的猪被Faust揪出来。
 
@@ -31,7 +31,7 @@ Faust又看了胡萝卜一眼，突然Faust像个疯子一样大笑起来。
 
 - 空荡的村庄和黄金胡萝卜
 
-<img class="cover" src="/images/2014/10/read/MC-CJC/read/MC-CJC/2014-10-03_15.40.16.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/read/MC-CJC/2014-10-03_15-222.jpg" />
 
 `哈哈~哈哈~~` Faust的笑声戛然而止，眼神变得凌厉起来
 

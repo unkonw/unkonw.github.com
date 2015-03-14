@@ -190,7 +190,11 @@ FACT：Jane都可以抗住压力不嫁，为什么Leofry不可以。
 
 ---
 
-延伸：罗马假日 僵尸新娘
+###延伸：
+
+[罗马假日](http://movie.douban.com/subject/1293839/)
+
+[僵尸新娘](http://movie.douban.com/subject/1309060/)
 
 范玮琪的`一个像夏天一个像秋天`（一开始两人相遇的发展）
 
