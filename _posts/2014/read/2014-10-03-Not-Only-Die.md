@@ -11,7 +11,7 @@ category: read
 
 - 准备进发光标处
 
-<img class="cover" src="/images/2014/10/2014-10-02_21.41.01.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_21.41.01.jpg" />
 
 "呵呵，金银之地后面是地狱之门。哈哈哈！！~"——Faust看到此景不禁仰天大笑起来。
 
@@ -21,19 +21,19 @@ category: read
 
 - 地狱之门Sleeping
 
-<img class="cover" src="/images/2014/10/2014-10-02_21.52.44.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_21.52.44.jpg" />
 
 "下雨了...哦，那天的巨响是闪电吗？"—那么，我来引雷吧。（从僵尸猪学来工具中制出引雷针）
 
 - 雷电召来
 
-<img class="cover" src="/images/2014/10/20141002193642.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141002193642.jpg" />
 
 雨过天晴...开！
 
 - 地狱门前
 
-<img class="cover" src="/images/2014/10/2014-10-02_21.43.05.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_21.43.05.jpg" />
 
 "走吧！"-Faust给自己打气道，提着胡萝卜钓竿迈进了地狱。 
 
@@ -41,27 +41,27 @@ Faust不知道的是：`**地狱边境，每一个进来的人都要赤裸裸的
 
 - 地狱
 
-<img class="cover" src="/images/2014/10/800px-2011-02-05_11.46.18.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/800px-2011-02-05_11.46.18.jpg" />
 
 一进到地狱，Faust就感到自己有些头痛。
 "是高温的影响吗？"-Faust正了正身子，继续向前。
 
 - 岩浆海
 
-<img class="cover" src="/images/2014/10/800px-Nether_With_Potion_of_Night_Vision.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/800px-Nether_With_Potion_of_Night_Vision.jpg" />
 
 走了许久，一个暗黑楼阁耸立在Faust眼前，那幽黑的墙仿佛黑洞一般令人窒息。Faust走过去想伸手推门。
 这时，突然间怪物从四面八方涌了出来，疯狂地攻击着Faust。Faust且战且退，急着要进入楼阁躲避。
 
 - 暗黑楼阁
 
-<img class="cover" src="/images/2014/10/800px-Nether_'biome'.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/800px-Nether_'biome'.jpg" />
 
 但进不去。无论Faust怎么冲撞楼阁的门，门丝毫不动。
 
 - 楼阁大门
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.02.15.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.02.15.jpg" />
 
 "不放弃自己的伪装，你是见不了地狱之主的。"就在Faust背靠着门苦苦坚持的时候，有话语在Faust耳边幽灵般响起。
 
@@ -71,17 +71,17 @@ Faust不知道的是：`**地狱边境，每一个进来的人都要赤裸裸的
 
 - 剑破碎面对绝壁
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.51.53.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.51.53.jpg" />
 
 Faust立刻被怪顶得一个踉跄，掉进了岩浆里，慢慢地沉陷下去......
 
 - 陷入岩浆
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.52.01.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.52.01.jpg" />
 
 - 死了！？
 
-<img class="cover" src="/images/2014/10/20141001215235.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141001215235.jpg" />
 
 >
 >"我死了吗？唔！头好痛..."
@@ -115,7 +115,7 @@ Faust重新游出岩浆，长时间在岩浆里灼烧，即便燃心胸甲也因
 
 - 地狱之主
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.42.15.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.42.15.jpg" />
 
 "那些猪啊，是我养的军队。前阵子不知道为什么地狱之门突然打开了，把他们吸了出去。"
 
@@ -139,7 +139,7 @@ Faust重新游出岩浆，长时间在岩浆里灼烧，即便燃心胸甲也因
 
 - 黄金胡萝卜
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.47.49.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.47.49.jpg" />
 
 用它可以号令我的僵尸猪大军，把他们召回来吧。
 
@@ -147,7 +147,7 @@ Faust重新游出岩浆，长时间在岩浆里灼烧，即便燃心胸甲也因
 
 - 末影之眼
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.47.51.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.47.51.jpg" />
 
 去吧，路上的怪物都不会攻击你的。
 
@@ -155,12 +155,12 @@ Faust重新游出岩浆，长时间在岩浆里灼烧，即便燃心胸甲也因
 
 - 暗黑楼阁地图
 
-<img class="cover" src="/images/2014/10/2014-10-03_11.39.25.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_11.39.25.jpg" />
 
-<img class="cover" src="/images/2014/10/2014-10-03_11.41.58.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_11.41.58.jpg" />
 
 - Faust剑破碎后慢慢沉入岩浆海底图-在最绝望的边缘
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.52.24.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.52.24.jpg" />
 
 

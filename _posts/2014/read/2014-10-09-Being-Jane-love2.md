@@ -4,7 +4,7 @@ title: 观后『成为简』GeliebteJane
 category: read
 ---
 
-<img class="cover" src="/images/2014/10/211c087d6277f9f2ff8fb.jpg" />
+<img class="cover" src="/images/2014/10/read/BeJane/211c087d6277f9f2ff8fb.jpg" />
 
 ###前话
 
@@ -118,7 +118,7 @@ L："做我们该做的"（计划瞒过Lefory叔『期间各种甜蜜蜜，最�
 
 - 最蠢的告白，也是最有用的废话
 
-<img class="cover" src="/images/2014/10/201410072222518.jpg" />
+<img class="cover" src="/images/2014/10/read/BeJane/201410072222518.jpg" />
 
 But！突如其来的一封信揭穿计划！
 
@@ -186,7 +186,7 @@ FACT：Jane都可以抗住压力不嫁，为什么Leofry不可以。
 
 - 后会无期。再见，再也不见。
 
-<img class="cover" src="/images/2014/10/20141007231412.jpg" />
+<img class="cover" src="/images/2014/10/read/BeJane/20141007231412.jpg" />
 
 ---
 

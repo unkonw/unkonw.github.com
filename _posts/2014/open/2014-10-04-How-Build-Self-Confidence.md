@@ -79,4 +79,4 @@ Answer：
 
 - 批改网提交附图78分嘿嘿嘿~
 
-<img class="cover" src="/images/2014/10/Others/20141005105958.jpg" />
+<img class="cover" src="/images/2014/10/open/20141005105958.jpg" />

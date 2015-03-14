@@ -1,12 +1,12 @@
 # Site settings
 title: FAUST'S CAT 
-email: info@voidcat.org
+email: faustmeow@outlook.com
 description: "FAUST'S CAT HOME"
 baseurl: ""
-url: "voidcat.org"
-username: 'voidcat'
+url: "hongbiao.me"
+username: 'faustmeow'
 highlighter: pygments
-repository: "https://github.com/voidcat"
+repository: "https://github.com/chenhongbiao"
 paginate: 10
 
 # Build settings

@@ -48,7 +48,7 @@ Faust的房子里
 
 - 再猛烈的风暴也会归于平静->我们的主人公Faust，永远de睡去
 
-<img class="cover" src="/images/2014/10/2014-09-30_20.28.14.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-09-30_20.28.14.jpg" />
 
 明天会更好吗？
 
@@ -56,4 +56,4 @@ Faust的房子里
 
 - 你掉出了这个世界
 
-<img class="cover" src="/images/2014/10/out-of-world.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/out-of-world.jpg" />

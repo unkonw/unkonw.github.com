@@ -7,7 +7,7 @@ category: read
 
 - 农民
 
-<img class="cover" src="/images/2014/10/301px-Green_Villager.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/301px-Green_Villager.jpg" />
 
 `这真是忙碌的一天` 住在上界的农民这么想着，手上不停地收割着刚熟的小麦。
 
@@ -22,7 +22,7 @@ category: read
 
 - 僵尸猪
 
-<img class="cover" src="/images/2014/10/362px-Zombie_Pigman.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/362px-Zombie_Pigman.jpg" />
 
 远处，一大批僵尸猪从火光中冲出来，而方向正是村庄光标处。
 
@@ -38,13 +38,13 @@ category: read
 
 - 图书管理员
 
-<img class="cover" src="/images/2014/10/301px-Librarian.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/301px-Librarian.jpg" />
 
 天啊！他们要过来了，开始有僵尸猪拿着金剑拼命地砍着栅栏。
 
 - 僵尸猪入侵压境
 
-<img class="cover" src="/images/2014/10/2014100108.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014100108.jpg" />
 
 栅栏开始出现一个个缺口，带着火光。
 
@@ -76,7 +76,7 @@ category: read
 
 - 猪的面具
 
-<img class="cover" src="/images/2014/10/PigFace.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/PigFace.jpg" />
 
 
 好，我投降，我愿意变成猪跟你们一起。
@@ -93,4 +93,4 @@ category: read
 
 - 猪
 
-<img class="cover" src="/images/2014/10/120px-Pig.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/120px-Pig.jpg" />

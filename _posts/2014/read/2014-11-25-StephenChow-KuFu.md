@@ -6,7 +6,7 @@ category: read
 
 - 左手写爱，右手写帅。
 
-<img class="cover" src="/images/2014/11/Open/20141129000827.jpg" />
+<img class="cover" src="/images/2014/11/read/KuFu/20141129000827.jpg" />
 
 ##铅华
 
@@ -35,7 +35,7 @@ category: read
 
 - 没那么容易，请付出代价 
 
-<img class="cover" src="/images/2014/11/Open/kufunot-overnight-job.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/kufunot-overnight-job.jpg"/>
 
 想要成为绝世高手并非一朝一夕，剧中提到除非你是万中无一的天赋奇才。
 
@@ -43,11 +43,11 @@ category: read
 
 - 我有本秘籍：高等数学——只要10块
 
-<img class="cover" src="/images/2014/11/Open/dream-shortway.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/dream-shortway.jpg"/>
 
 - 身怀绝技却无人相识，可惜
 
-<img class="cover" src="/images/2014/11/Open/nobody-not-vain.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/nobody-not-vain.jpg"/>
 
 许多武侠剧里总有一两个隐世高人，他们武功超绝却甘于平凡、隐藏实力。
 
@@ -55,7 +55,7 @@ category: read
 
 还有一种高人是打遍天下无敌手，属于独孤求败型的武痴。（剑魔）
 
-<img class="cover" src="/images/2014/11/Open/crazy-forget.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/crazy-forget.jpg"/>
 
 武功本身已经没有意义了，纯粹为了追求极致。（就像是为了学习而学习一样）
 
@@ -69,15 +69,15 @@ category: read
 
 - 青梅
 
-<img class="cover" src="/images/2014/11/Open/green-boygirl.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/green-boygirl.jpg"/>
 
 - 煮马
 
-<img class="cover" src="/images/2014/11/Open/bamboo-horse.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/bamboo-horse.jpg"/>
 
 - 女主好纯美啊。冷静冷静0 0
 
-<img class="cover" src="/images/2014/11/Open/notwhy-hug.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/notwhy-hug.jpg"/>
 
 上图不作述说，词不达意，瞎子都看得出来怎么回事了。
 
@@ -85,7 +85,7 @@ category: read
 
 - 欺诈失败，后说期间*睡着了*是因为。
 
-<img class="cover" src="/images/2014/11/Open/mask-tire.jpg" />
+<img class="cover" src="/images/2014/11/read/KuFu/mask-tire.jpg" />
 
 下一句是：`"累？糊口啊，大哥。"
 `
@@ -93,7 +93,7 @@ category: read
 
 - 隐藏的事、隐形的人
 
-<img class="cover" src="/images/2014/11/Open/just-uknow-why.jpg" />
+<img class="cover" src="/images/2014/11/read/KuFu/just-uknow-why.jpg" />
 
 你不知道事情多着呢。日常生活中每一个人看似普通，其实他们背后都有许多故事。
 
@@ -101,7 +101,7 @@ category: read
 
 - 被胖子害得身受重伤，发飙归来
 
-<img class="cover" src="/images/2014/11/Open/i-find.jpg" />
+<img class="cover" src="/images/2014/11/read/KuFu/i-find.jpg" />
 
 引用心圆妹子的话：一般说`没事`的可能意思。
 
@@ -117,21 +117,21 @@ category: read
 
 - 主公明示，不懂啊喂！
 
-<img class="cover" src="/images/2014/11/Open/how-areu.jpg" />
+<img class="cover" src="/images/2014/11/read/KuFu/how-areu.jpg" />
 
 - 好吧，这个只有**对**的人才能看懂。
 
-<img class="cover" src="/images/2014/11/Open/i-dont-know.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/i-dont-know.jpg"/>
 
 - 自嘲三连弹（阿Q）
 
-<img class="cover" src="/images/2014/11/Open/o-isit-real.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/o-isit-real.jpg"/>
 
-<img class="cover" src="/images/2014/11/Open/nosence-but.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/nosence-but.jpg"/>
 
 - 作死行为，请勿模仿（除非你是高手，否则还是**不逞一时风，背后来暗刀**）
 
-<img class="cover" src="/images/2014/11/Open/inno-.jpg"/>
+<img class="cover" src="/images/2014/11/read/KuFu/inno-.jpg"/>
 
 ##借题发挥谈武功
 
@@ -162,10 +162,10 @@ A：获取力量，推开说是想增强自身实力。
 
 - 郭嘉诸葛对不上的对手
  
-<img class="cover" src="/images/2014/11/Open/323215bc.jpg" />
+<img class="cover" src="/images/2014/11/read/KuFu/323215bc.jpg" />
 
 - 仙侠之
 
-<img class="cover" src="/images/2014/11/Open/img-0433ba32b44b5f22.jpg" />
+<img class="cover" src="/images/2014/11/read/KuFu/img-0433ba32b44b5f22.jpg" />
 
 

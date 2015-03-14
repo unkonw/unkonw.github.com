@@ -19,7 +19,7 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 村庄本来的样子
 
-<img class="cover" src="/images/2014/10/MC-HX/1/2014-09-30_18.21.53.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/1/2014-09-30_18.21.53.jpg" />
 
 - 发现村庄右下角与众不同的房子没，那是完全新盖的房子（属于Faust的）
 
@@ -27,7 +27,7 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 修建沙漠用去了近千个方块->有两重
 
-<img class="cover" src="/images/2014/10/MC-HX/1/2014-10-01_17.11.26.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/1/2014-10-01_17.11.26.jpg" />
 
 - 海是先用一长整排TNT炸开一条沟壑再填水进去，总共炸了两次。
 
@@ -35,25 +35,25 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
   前一次用来测试TNT连环爆炸的威力
   
-<img class="cover" src="/images/2014/10/MC-HX/1/2014-09-30_23.18.32.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/1/2014-09-30_23.18.32.jpg" />
 
   爆破留图
   
-<img class="cover" src="/images/2014/10/MC-HX/1/2014-09-30_23.13.28.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/1/2014-09-30_23.13.28.jpg" />
 
   最后决定从中间引爆，间距5格
   
-<img class="cover" src="/images/2014/10/MC-HX/1/2014-09-30_23.19.01.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/1/2014-09-30_23.19.01.jpg" />
 
   爆炸场面，看我的定军之箭引爆它，嘎嘎~
   
-<img class="cover" src="/images/2014/10/MC-HX/1/2014-09-30_23.19.31.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/1/2014-09-30_23.19.31.jpg" />
 
 - 其实山是空心的，内部先修建了7条支柱（用各种矿石）。天水的源头在几百米的高空。树木和花是后来才种的，因为Faust觉得光秃秃的太单调了。
 
 - 半夜修建山
 
-<img class="cover" src="/images/2014/10/MC-HX/1/2014-09-30_22.18.59.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/1/2014-09-30_22.18.59.jpg" />
 
 
 >或许你不相信，但光柱是最先修建而且也是最后完工的。
@@ -67,25 +67,25 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 绿袍介绍
 
-<img class="cover" src="/images/2014/10/MC-HX/2/20141003232111.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/2/20141003232111.jpg" />
 
 - 僵尸猪的金剑攻击在游戏里还不如铁剑的威力大，所以我们主角选择了铁剑.
 
 - 不同材质剑的伤害比较图
 
-<img class="cover" src="/images/2014/10/MC-HX/2/20141003232335.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/2/20141003232335.jpg" />
 
 - 那个白袍的村民在游戏里真的是图书管理员
 
 - 村民服装颜色与职业对应图
 
-<img class="cover" src="/images/2014/10/MC-HX/2/20141003232500.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/2/20141003232500.jpg" />
 
 - *僵尸猪入侵压境*->这张图重复的场景有3次以上，因为点着的火过会就会灭的。
 
 - 第X次点火
 
-<img class="cover" src="/images/2014/10/MC-HX/2/2014-10-01_21.47.36.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/2/2014-10-01_21.47.36.jpg" />
 
 
 `在截图时被僵尸猪害死了无数次`
@@ -93,7 +93,7 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 很有恶趣味地钓自己的尸体
 
-<img class="cover" src="/images/2014/10/MC-HX/2/2014-10-01_21.55.29.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/2/2014-10-01_21.55.29.jpg" />
 
 ####第三章
 
@@ -103,20 +103,20 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 眼尖地可以发现中间有块不同颜色的方块
 
-<img class="cover" src="/images/2014/10/MC-HX/3/2014-10-02_12.51.48.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/3/2014-10-02_12.51.48.jpg" />
 
 - 真的有天国之路（而且修建了3条）并且你可以慢慢跳上去，如果你有足够耐心和精准的每一次跳跃的话。
 - 『创意来自超级玛丽奥^ ^』最终高度是119格（从那里刚好可以得到第一章里的村庄鸟瞰图）
 
 - 第一条天国之路
 
-<img class="cover" src="/images/2014/10/MC-HX/3/2014-09-30_21.45.35.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/3/2014-09-30_21.45.35.jpg" />
 
 - 在游戏里，真的可以用胡萝卜钓竿来骑猪，他们很笨，而且只会胡萝卜是他们的唯一动力！（就只想着吃的家伙）
 
 - 骑着猪的路人甲
 
-<img class="cover" src="/images/2014/10/MC-HX/3/Pig_saddle.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/3/Pig_saddle.jpg" />
 
 
 ####第四章
@@ -127,19 +127,19 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 真实的爆炸地点
 
-<img class="cover" src="/images/2014/10/MC-HX/4/2014-10-02_21.26.04.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/4/2014-10-02_21.26.04.jpg" />
 
 - 而海底拿到神殿宝物的那张图，Faust在外面等了一天一夜，只为了能照到月亮。
 
 - 在海底等待月落天边
 
-<img class="cover" src="/images/2014/10/MC-HX/4/2014-10-02_20.49.10.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/4/2014-10-02_20.49.10.jpg" />
 
 - 海底里的宝物->他真正的名字应该叫：恶魂之泪
 
 - 恶魂之泪
 
-    <img class="cover" src="/images/2014/10/MC-HX/4/GhastFace.jpg" />
+    <img class="cover" src="/images/2014/10/read/MC-HX/4/GhastFace.jpg" />
 
 - 沙漠的宝物->在游戏真的可以保护你免除火伤害（附魔），前提是你要穿在身上而不是拿在手里。
 
@@ -153,19 +153,19 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 各种怪物，一解除无敌状态，九死一生
 
-<img class="cover" src="/images/2014/10/MC-HX/5/2014-10-03_11.40.29.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/5/2014-10-03_11.40.29.jpg" />
 
 - 地狱之主（凋灵）的架势摆了大约15秒->后面的岩浆瀑布是人造的
 
 - (#`O′)还没爆发前
 
-<img class="cover" src="/images/2014/10/MC-HX/5/2014-10-03_12.42.00.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/5/2014-10-03_12.42.00.jpg" />
 
 - 在展现胡萝卜和末影之眼的时候，地狱之主其实是想要杀我。（谁让你手贱打他了）
 
 - 逃命ing
 
-<img class="cover" src="/images/2014/10/MC-HX/5/2014-10-03_11.44.59.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/5/2014-10-03_11.44.59.jpg" />
 
 - 最后我真沉下去了- -那张**你死了**的图片，是死了现截的
 
@@ -175,31 +175,31 @@ PS：由于花絮图片过多，为了防止和剧情部分图片混淆，特开
 
 - 死了敢回家ing
 
-<img class="cover" src="/images/2014/10/MC-HX/6/2014-10-01_21.53.39.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/6/2014-10-01_21.53.39.jpg" />
 
 - 空荡的村庄和黄金胡萝卜，那是我点的火，但我不舍得烧掉Faust的家
 
 - 坐看村庄化为废墟
 
-<img class="cover" src="/images/2014/10/MC-HX/6/2014-10-03_15.38.44.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/6/2014-10-03_15.38.44.jpg" />
 
 - 那场末地大战是真的= =Faust打了半个小时。（本来我就想在末地门边截个图，没想到掉下去了卧槽ヾ(｡｀Д´｡)//）
 
 - 不是你死就是你亡！
 
-<img class="cover" src="/images/2014/10/MC-HX/6/2014-10-03_15.55.28.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/6/2014-10-03_15.55.28.jpg" />
 
 - 最后出来地上的头颅其实是凋灵的
 
 - 你个死人头
 
-<img class="cover" src="/images/2014/10/MC-HX/6/WitherFace.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/6/WitherFace.jpg" />
 
 ####第七章
 
 - 真实的整一个世界在虚空之上->只有God状态才能看到
 
-<img class="cover" src="/images/2014/10/MC-HX/7/2014-09-30_22.41.38.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-HX/7/2014-09-30_22.41.38.jpg" />
 
 ---
 

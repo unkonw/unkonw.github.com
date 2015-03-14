@@ -6,7 +6,7 @@ category: read
 
 ##不推荐 
 
-<img class="cover" src="/images/2014/11/Open/201411160909.jpg" />
+<img class="cover" src="/images/2014/11/read/201411160909.jpg" />
 
 恭喜你！刷新了我的烂片下确界！
 

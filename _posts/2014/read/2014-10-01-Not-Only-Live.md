@@ -15,7 +15,7 @@ category: read
 
 - 村庄地图
 
-<img class="cover" src="/images/2014/10/20141001200557.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141001200557.jpg" />
 
 虽说村子被一种奇怪的栅栏所围住，且有岩浆阻隔，村子里的人到不了外面去；
 
@@ -23,7 +23,7 @@ category: read
 
 - 村庄空瞰
 
-<img class="cover" src="/images/2014/10/20141001200851.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141001200851.jpg" />
 
 没有人知道当初是谁建成了这个村子，起码现在住在村里的人不知道。
 
@@ -45,16 +45,16 @@ Faust就这样日复一日地在村子里长大，一直跟村民们过着与世
 
 - 左邻沙漠
 
-<img class="cover" src="/images/2014/10/20141001201505.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141001201505.jpg" />
 
 - 右连海
 
-<img class="cover" src="/images/2014/10/20141001201223.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141001201223.jpg" />
 
 - 上接光柱
 
-<img class="cover" src="/images/2014/10/20141001201046.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141001201046.jpg" />
 
 - 下靠山
 
-<img class="cover" src="/images/2014/10/20141001201437.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/20141001201437.jpg" />

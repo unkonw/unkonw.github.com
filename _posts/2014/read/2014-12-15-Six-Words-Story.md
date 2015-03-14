@@ -20,7 +20,7 @@ Q群里有人上传一些*呵呵哒*的图片，引起老师的批评并且重�
 
 于是我选二：
 
-<img class="cover" src="/images/2014/12/Read/20141215162026.jpg" />
+<img class="cover" src="/images/2014/12/read/20141215162026.jpg" />
 
 ###外语版：Six Words
 
@@ -100,7 +100,7 @@ Q群里有人上传一些*呵呵哒*的图片，引起老师的批评并且重�
 
 启发来自今日看到的日本亲子对话：
 
-<img class="cover" src="/images/2014/12/Read/20141215180813.jpg" />
+<img class="cover" src="/images/2014/12/read/four-love-letter.jpg" />
 
 ##中文版：三行情书
 

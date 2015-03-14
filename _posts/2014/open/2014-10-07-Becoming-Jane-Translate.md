@@ -6,7 +6,7 @@ category: open
 
 - 爱情，是一种怪事
 
-<img class="cover" src="/images/2014/10/f1eae4a40f4bfbfaed04fa.jpg" />
+<img class="cover" src="/images/2014/10/open/f1eae4a40f4bfbfaed04fa.jpg" />
 
 在那个年代里，富有自主意识的女性似乎不受欢迎。
 

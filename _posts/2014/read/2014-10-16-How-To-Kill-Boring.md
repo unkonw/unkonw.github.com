@@ -140,4 +140,4 @@ To become a whatever kind of person is ok, as long as you choose.
 
 - 截杀提交作文
 
-<img class="cover" src="/images/2014/10/20141020234105.jpg" />
+<img class="cover" src="/images/2014/10/read/20141020234105.jpg" />

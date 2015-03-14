@@ -80,12 +80,12 @@ category: read
 
 游戏制作者:为什么吸引玩家 能给玩家带来什么 为什么愿意为此付钱
 
-<img class="cover" src="/images/2014/12/Read/What-the-fuck-Game.jpg" />
+<img class="cover" src="/images/2014/12/read/What-the-fuck-Game.jpg" />
 
 ###没有最后一个游戏
 
 - 几块钱的纪念,其他的是体验（愤怒 快乐 认真 忧伤）
 
-<img class="cover" src="/images/2014/12/Read/Game-life-Memory.jpg" />
+<img class="cover" src="/images/2014/12/read/Game-life-Memory.jpg" />
 
 - 此漫画后续应是软文，不放出来，请自行脑补。

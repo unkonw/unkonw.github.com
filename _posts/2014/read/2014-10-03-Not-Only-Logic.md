@@ -11,7 +11,7 @@ Faust站在光标处看着昔日的村庄已不成样，感慨万千。拿出黄
 
 - 僵尸猪大军逐渐向Faust靠拢
 
-<img class="cover" src="/images/2014/10/2014-10-03_13.06.16.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/read/MC-CJC/2014-10-03_13.06.16.jpg" />
 
 在僵尸猪大军一个接着一个迈入Faust激活好的地狱之门时，有几个伪装的猪被Faust揪出来。
 
@@ -31,7 +31,7 @@ Faust又看了胡萝卜一眼，突然Faust像个疯子一样大笑起来。
 
 - 空荡的村庄和黄金胡萝卜
 
-<img class="cover" src="/images/2014/10/2014-10-03_15.40.16.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/read/MC-CJC/2014-10-03_15.40.16.jpg" />
 
 `哈哈~哈哈~~` Faust的笑声戛然而止，眼神变得凌厉起来
 
@@ -104,7 +104,7 @@ Faust又看了胡萝卜一眼，突然Faust像个疯子一样大笑起来。
 
 - 终末之地-使用末影之眼进入，只有杀掉里面的最强者（默认是末影龙）的人，才能看到离开的传送门
 
-<img class="cover" src="/images/2014/10/End-Place.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/End-Place.jpg" />
 
 Faust把末影之眼抛向天空，瞬间Faust和Cat两人被双双传送走。
 
@@ -116,7 +116,7 @@ Faust把末影之眼抛向天空，瞬间Faust和Cat两人被双双传送走。
 
 - Faust大战后的身影
 
-<img class="cover" src="/images/2014/10/2014-10-03_16.10.47.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_16.10.47.jpg" />
 
 Faust把黄金胡萝卜交还给地狱之主。
 
@@ -160,16 +160,16 @@ Faust吟完诗后，一边唱着`笑红尘`，一边远去。
 
 - 终末之地的默认最强者->末影龙
 
-<img class="cover" src="/images/2014/10/2014-10-03_16.01.18.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_16.01.18.jpg" />
 
 - 双杀！
 
-<img class="cover" src="/images/2014/10/2014-10-03_16.07.57.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_16.07.57.jpg" />
 
 - 终末之地唯一的出路->末地传送门
 
-<img class="cover" src="/images/2014/10/The_End.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/The_End.jpg" />
 
 - 凋灵大爆离开座位
 
-<img class="cover" src="/images/2014/10/2014-10-03_12.42.23.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-03_12.42.23.jpg" />

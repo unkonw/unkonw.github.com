@@ -50,4 +50,4 @@ So！这篇博文先来感谢和记录建博过程。
  
  在此，鞠躬鞠躬再鞠躬！（再次借用别人的图向网络贡献者致谢『敬IT Clound』）
  
- <img class="cover" src="/images/2014/10/20141001113411.jpg" />
+ <img class="cover" src="/images/2014/10/tech/20141001113411.jpg" />

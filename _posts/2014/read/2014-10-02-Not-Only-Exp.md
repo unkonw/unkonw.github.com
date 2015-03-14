@@ -21,7 +21,7 @@ category: read
 
 - 整装待发 盲海
 
-<img class="cover" src="/images/2014/10/2014-10-0223.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-0223.jpg" />
 
 幸运的是，Faust有胡萝卜当作虚拟目标，一路上劈波斩浪。
 
@@ -33,15 +33,15 @@ Faust拿出Cat在书中所写进入神殿需要的药水，一个翻身就潜入
 
 - 进入海底神殿
 
-<img class="cover" src="/images/2014/10/600px-Water_dungeon_instagram.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/600px-Water_dungeon_instagram.jpg" />
 
 - 遭遇躲避远古守卫
 
-<img class="cover" src="/images/2014/10/798px-Protrusion_Room.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/798px-Protrusion_Room.jpg" />
 
 - 避无可避与远古守卫战斗
 
-<img class="cover" src="/images/2014/10/800px-Particle_mobappearance.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/800px-Particle_mobappearance.jpg" />
 
 虽然Faust对于守卫能避就避，但还是免不了几场恶战。好在，Faust在村子里向僵尸猪学习的剑法不是白练的，最终有惊无险地到达了神殿的主堂。
 
@@ -53,7 +53,7 @@ Faust拿到宝物后发现自己药水效果时间不多了，便赶紧游出神
  
 - 神殿宝物
 
-<img class="cover" src="/images/2014/10/2014-10-02_20.56.01.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_20.56.01.jpg" />
 
 ####无尽沙漠--远处的红沙是不屈者的鲜血所染
 
@@ -67,19 +67,19 @@ Faust发现有一水井快要枯竭了。想了想，把海神之泪放进井里
 
 - 即将枯竭的水井
 
-<img class="cover" src="/images/2014/10/592px-Desert_well_MC.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/592px-Desert_well_MC.jpg" />
 
 突然，水井不断冒出水来，地面也不断颤动。
 
 - 水井爆发了
 
-<img class="cover" src="/images/2014/10/800px-Excavated_desert_well.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/800px-Excavated_desert_well.jpg" />
 
 Faust转身一看，水井对面地表竟然浮出`沙漠神庙`来！
 
 - 神庙入口
 
-<img class="cover" src="/images/2014/10/800px-Desert_Temple_Entrance.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/800px-Desert_Temple_Entrance.jpg" />
 
 Faust从水井里喝了几口水，便进了神庙。神庙里一片安宁，凉爽得很。
 
@@ -99,13 +99,13 @@ Faust一路疾奔从墙上射出来的乱箭中穿过。
 
 - 神庙坍塌爆炸
 
-<img class="cover" src="/images/2014/10/2014-10-02_21.24.53.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_21.24.53.jpg" />
 
 "呼，刚拿到地狱的东西，就差点去了地狱。"
 
 - 沙漠宝物
 
-<img class="cover" src="/images/2014/10/2014-10-02_21.26.04.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_21.26.04.jpg" />
 
 穿上胸甲，重新回去山洞整装，Faust知道下一站，也是最终战，应该是光标的另一边->火海了。
 
@@ -117,9 +117,9 @@ Faust一路疾奔从墙上射出来的乱箭中穿过。
 
 - 沙漠神庙
 
-<img class="cover" src="/images/2014/10/sd-2012-06-22_18.02.26.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/sd-2012-06-22_18.02.26.jpg" />
 
 - 海底神殿
 
-<img class="cover" src="/images/2014/10/sdOcean_monument.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/sdOcean_monument.jpg" />
 

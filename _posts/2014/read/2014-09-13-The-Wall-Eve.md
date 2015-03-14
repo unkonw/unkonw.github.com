@@ -4,7 +4,7 @@ title: 机器人总动员漫想
 category: read 
 ---
 
-<img class="cover" src="/images/2014/9/930091416.jpg" />
+<img class="cover" src="/images/2014/9/read/930091416.jpg" />
 
 这部片子我给9.9分（因为我是缺一主义者蛤）
 
@@ -23,7 +23,7 @@ category: read
 
  瓦力的生活如此安静单调，直到有一天，Crash Eve！
  
-<img class="cover" src="/images/2014/9/930091832.jpg" />
+<img class="cover" src="/images/2014/9/read/930091832.jpg" />
 
  - I must persuade 
  

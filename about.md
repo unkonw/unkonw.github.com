@@ -22,41 +22,41 @@ Everyone is independent.
 
 FaustCat：
 
-         * `C/C++` `Java` `Acmer` `Algorithms` `Operating system`
+         -  C/C++ Java Acmer Algorithms Operating system
          
-         * `Philosophy` `Literature` `Writing` `Colorful Life`
+         -  Philosophy Literature Writing Colorful Life
          
 UNKNOW：
 
-         * `Draw` `Sing` `Listen`
+         -  Draw Sing Listen
          
 
 ##我们对什么感兴趣？
 
 FaustCat：
 
-         * 专业的IT知识（逻辑算法，操作系统，人类大脑计划人工智能）
+         - 专业的IT知识（逻辑算法，操作系统，人类大脑计划人工智能）
          
-         * 关于认知的，物理化学数学知识（关于我们的世界），还有大脑生物方面
+         - 关于认知的，物理化学数学知识（关于我们的世界），还有大脑生物方面
          
-         * 关于哲学文学的，主要在`意识心灵` `自我` `自由意志` `形而上学`
+         - 关于哲学文学的，主要在`意识心灵` `自我` `自由意志` `形而上学`
          
-         * `Neural Science and Artificial Intelligence brain research`
+         -  Neural Science and Artificial Intelligence brain research
          
-         * 当然还有关于生活的啦^ ^//
+         - 当然还有关于生活的啦^ ^//
          
               - 漫画（金田一，全职猎人）
               - 音乐（轻音乐，外语歌） 
-              - 电影（死亡诗社，剪刀手爱德华，拯救大兵瑞恩，肖申克的救赎） 
+              - 电影 [看看猫的豆瓣](http://www.douban.com/people/101230073/) 
               - 游戏（起凡，跑跑，MC）
               
 UNKNOW：
 
-         *  Emotion 
+         -  Emotion 
 
-         *  Psychology
+         -  Psychology
          
-         *  FaustCat 不喜欢的东西
+         -  FaustCat 不喜欢的东西
 
 
 ##我们的过去？
@@ -73,15 +73,15 @@ UNKONW->>o(°▽°o)\\
 
 //任何信息侵权，文章内容错误，还有想和我们聊天的。。。**WE R TOGETHER**
 
-* Email：faustmeow@gmail.com
+* Email：faustmeow@outlook.com
 
-* Email:**************（才不告诉你呢，有事找FaustCat）
+* Email:***********（才不告诉你呢，有事找FaustCat）
 
-* Telephone：***********
+* Telephone：*******
 
 * QQ：*********
 
-* Github：[https://github.com/voidcat](https://github.com/voidcat)
+* Github：[喵喵就是猫](https://github.com/chenhongbiao)
 
 ##最后
 

@@ -13,7 +13,7 @@ category: read
 
 - 改建后的猪园
 
-<img class="cover" src="/images/2014/10/2014-10-02_12.27.24.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_12.27.24.jpg" />
 
 白天是潮水般的机械工作，晚上回家则**变回猪**，享受屋子后的猪圈生活。
 
@@ -51,7 +51,7 @@ Cat是一个很冷静的人。
 ```
 - 人伪装过度后成了僵尸
 
-<img class="cover" src="/images/2014/10/Zombie_Villager.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/Zombie_Villager.jpg" />
 
 哼哼，真的累了，睡觉。
 
@@ -65,7 +65,7 @@ Cat是一个很冷静的人。
 
 - 猫的面具
 
-<img class="cover" src="/images/2014/10/BlackCatFace.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/BlackCatFace.jpg" />
 
 Cat一边带路，一边说道：
 
@@ -80,7 +80,7 @@ Cat一边带路，一边说道：
 
 - 山洞秘密基地
 
-<img class="cover" src="/images/2014/10/2014-10-02_12.49.11.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_12.49.11.jpg" />
 
 "你什么时候建的？"我看到一个山洞里有一大堆书籍/武器/材料。  
 
@@ -114,9 +114,9 @@ Cat一边说着一边穿着装备。
 
 - 天水与天国之路
 
-<img class="cover" src="/images/2014/10/2014-10-02_12.53.16.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_12.53.16.jpg" />
 
-<img class="cover" src="/images/2014/10/2014-10-02_12.55.29.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/2014-10-02_12.55.29.jpg" />
 
 "不归路？"
 
@@ -180,5 +180,5 @@ Cat背影匆匆消失在夜色中，我细细端详着猫的面具，终于带�
 
 - 胡萝卜钓竿
 
-<img class="cover" src="/images/2014/10/Grid_Carrot_on_a_Stick.jpg" />
+<img class="cover" src="/images/2014/10/read/MC-CJC/Grid_Carrot_on_a_Stick.jpg" />
 

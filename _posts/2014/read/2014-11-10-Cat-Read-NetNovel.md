@@ -40,7 +40,7 @@ category: read
 
 - 封面：
 
-<img class="cover" src="/images/2014/12/Open/Jingsongleyuan.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/Jingsongleyuan.jpg" />
 
 ps：其实我更喜欢之前的小丑封面-0 0-
 
@@ -92,7 +92,7 @@ ps：其实我更喜欢之前的小丑封面-0 0-
 
 然后是自己杀害了自己，不知道。
 
-<img class="cover" src="/images/2014/12/Open/平田-承受之不能img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/平田-承受之不能img.jpg" />
 
 - 《地球废土篇》
 
@@ -100,35 +100,35 @@ ps：其实我更喜欢之前的小丑封面-0 0-
 
 自由的伟大在于解放自我的束缚。`万事皆允`
 
-<img class="cover" src="/images/2014/12/Open/自由-可能会害了你们img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/自由-可能会害了你们img.jpg" />
 
 - 《进击的主角》
 
 这战术就一个字："贱！" **但很有用。**
 
-<img class="cover" src="/images/2014/12/Open/主角光环-单挑mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/主角光环-单挑mg.jpg" />
 
 - 《卑鄙的我》
 
 人总会有弱点的，是吗？
 
-<img class="cover" src="/images/2014/12/Open/谜题-自毁与自悔mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/谜题-自毁与自悔mg.jpg" />
 
 我们之中出了一个叛徒，你猜是谁被骗了。
 
-<img class="cover" src="/images/2014/12/Open/莫测的狂徒img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/莫测的狂徒img.jpg" />
 
 - 《苍灵论剑》
 
 **虚伪却堂皇的人**和**真实却丑陋的人**->英雄
 
-<img class="cover" src="/images/2014/12/Open/林常-不公平-英雄img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/林常-不公平-英雄img.jpg" />
 
 - 《兄弟》
 
 兄弟并非血缘，当兵的，共患难的，心照不宣的，是一份情谊。
 
-<img class="cover" src="/images/2014/12/Open/兄弟-亲人-心照不宣mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/兄弟-亲人-心照不宣mg.jpg" />
 
 - 《披风争夺战》
 
@@ -136,11 +136,11 @@ ps：其实我更喜欢之前的小丑封面-0 0-
 
 **有些事，别人教不了你。只能自己领悟。**
 
-<img class="cover" src="/images/2014/12/Open/布鲁斯教不了你们对待邪恶与正义mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/布鲁斯教不了你们对待邪恶与正义mg.jpg" />
 
-<img class="cover" src="/images/2014/12/Open/有些事，要自己领会img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/有些事，要自己领会img.jpg" />
 
-<img class="cover" src="/images/2014/12/Open/披风教不了你们msgimg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/披风教不了你们msgimg.jpg" />
 
 - 《入侵脑细胞》
 
@@ -148,25 +148,25 @@ ps：其实我更喜欢之前的小丑封面-0 0-
 
 `语言即是力量。这里是意志力的天堂。`
 
-<img class="cover" src="/images/2014/12/Open/堂吉诃德img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/堂吉诃德img.jpg" />
 
 - 《疯不觉VS絮怀殇》
 
 三分轻狂！
 
-<img class="cover" src="/images/2014/12/Open/堂吉诃德img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/堂吉诃德img.jpg" />
 
 我为什么要放这段？嘿嘿嘿。。。
 
-<img class="cover" src="/images/2014/12/Open/嘿嘿嘿mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/嘿嘿嘿mg.jpg" />
 
-<img class="cover" src="/images/2014/12/Open/嘿嘿嘿gimg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/嘿嘿嘿gimg.jpg" />
 
 这叫**战略上藐视敌人，战术上重视对手。**
 
-<img class="cover" src="/images/2014/12/Open/你们太容易看破了mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/你们太容易看破了mg.jpg" />
 
-<img class="cover" src="/images/2014/12/Open/要得就是狂妄和气势g.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/要得就是狂妄和气势g.jpg" />
 
 - 《咀魔岛》
 
@@ -174,17 +174,17 @@ ps：其实我更喜欢之前的小丑封面-0 0-
 
 停止了思考便想死了。
 
-<img class="cover" src="/images/2014/12/Open/思考的了结便是死mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/思考的了结便是死mg.jpg" />
 
 "好话好好说"->把Shit放下来，别急着动手啊。（东北掐死XX事件）
 
-<img class="cover" src="/images/2014/12/Open/好话好好说-把shit放下mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/好话好好说-把shit放下mg.jpg" />
 
 不要轻信表象，有些人没你想象中的那么蠢。（当然确实有蠢的。）
 
-<img class="cover" src="/images/2014/12/Open/不要轻易瞧不起人mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/不要轻易瞧不起人mg.jpg" />
 
-<img class="cover" src="/images/2014/12/Open/不要轻信表象-不要轻视惹人厌的人g.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/不要轻信表象-不要轻视惹人厌的人g.jpg" />
 
 - 《鲑鱼人生》
 
@@ -194,17 +194,17 @@ ps：其实我更喜欢之前的小丑封面-0 0-
 
 如果我不把有价值的东西记录下来，那么过去的我将消失得没有痕迹。
 
-<img class="cover" src="/images/2014/12/Open/遗忘即是死亡-死亡就是没有mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/遗忘即是死亡-死亡就是没有mg.jpg" />
 
 - 《绝世高手篇》
 
 两个神经病在争谁才是影帝（后）->
 
-<img class="cover" src="/images/2014/12/Open/斜碾冰轮镜天长mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/斜碾冰轮镜天长mg.jpg" />
 
 装13如爬山，爬得越高摔得越狠（节操大甩卖！）
 
-<img class="cover" src="/images/2014/12/Open/装B如爬山-看谁更羞耻-g.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/装B如爬山-看谁更羞耻-g.jpg" />
 
 - 《荒野求毒》
 
@@ -212,49 +212,49 @@ ps：其实我更喜欢之前的小丑封面-0 0-
 
 "把后背交给我吧"（这人看起来挺可靠的）
 
-<img class="cover" src="/images/2014/12/Open/把后背交给我吧-贝尔mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/把后背交给我吧-贝尔mg.jpg" />
 
 - 《后宫篇》
 
 （少女？）姬沨珑之烦恼
 
-<img class="cover" src="/images/2014/12/Open/不要拆散我们啊啊啊一厢情愿g.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/不要拆散我们啊啊啊一厢情愿g.jpg" />
 
 每一发野球拳都可以让你的身上某种东西变长一点点。。。
 
-<img class="cover" src="/images/2014/12/Open/没什么-为了正义无耻是必须的mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/没什么-为了正义无耻是必须的mg.jpg" />
 
 那你觉得自己是个什么东西呢？
 
-<img class="cover" src="/images/2014/12/Open/那你觉得自己是个什么g.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/那你觉得自己是个什么g.jpg" />
 
 不放过任何一个打击敌人心理的机会->
 
-<img class="cover" src="/images/2014/12/Open/骂街打脸三十年g.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/骂街打脸三十年g.jpg" />
 
 总有你不愿意面对的事物，比如？
 
-<img class="cover" src="/images/2014/12/Open/你脸别过来-我拼命了啊.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/你脸别过来-我拼命了啊.jpg" />
 
 ####彩蛋：
 
 不用解释的信条。
 
-<img class="cover" src="/images/2014/12/Open/踏虚mg.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/踏虚mg.jpg" />
 
 【备注：万物皆虚，万事皆允】
 
 我上镜啦！(≧▽≦)/~万岁
 
-<img class="cover" src="/images/2014/12/Open/喵星人的愤怒img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/喵星人的愤怒img.jpg" />
 
 名字还在外出取材的路上么（虚着眼）
 
-<img class="cover" src="/images/2014/12/Open/他父母的名字呢喂img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/他父母的名字呢喂img.jpg" />
 
 居家旅行，杀人必备。。。
 
-<img class="cover" src="/images/2014/12/Open/打架斗殴必备-隐藏杀气img.jpg" />
+<img class="cover" src="/images/2014/11/read/NetNovel/打架斗殴必备-隐藏杀气img.jpg" />
 
 
 ###仙草
