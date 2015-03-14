@@ -35,20 +35,18 @@ UNKNOW：
 
 FaustCat：
 
-         - 专业的IT知识（逻辑算法，操作系统，人类大脑计划人工智能）
+         - 关于IT科技  逻辑算法  操作系统  人类大脑计划
          
-         - 关于认知的，物理化学数学知识（关于我们的世界），还有大脑生物方面
+         - 关于Know认知，一切关于我们的世界
          
-         - 关于哲学文学的，主要在`意识心灵` `自我` `自由意志` `形而上学`
-         
-         -  Neural Science and Artificial Intelligence brain research
+         - 关于Think哲学，意识心灵 自我 自由意志 形而上学
          
          - 当然还有关于生活的啦^ ^//
          
               - 漫画（金田一，全职猎人）
-              - 音乐（轻音乐，外语歌） 
-              - 电影 [看看猫的豆瓣](http://www.douban.com/people/101230073/) 
-              - 游戏（起凡，跑跑，MC）
+              - 音乐『网易云音乐』
+              - 电影『豆瓣』
+              - 游戏『Steam』（起凡，跑跑，MC）
               
 UNKNOW：
 
@@ -61,7 +59,7 @@ UNKNOW：
 
 ##我们的过去？
 
-Faust<<-o(-w -)//抱歉，这个要隐藏一些。
+Faust<<-o(-w -)//抱歉，过去一片混乱，烂摊子拿不出手来。
 
 **Now,I am a computer science major student at NEU.**
 
@@ -71,17 +69,15 @@ UNKONW->>o(°▽°o)\\
 
 ##想要联系我们？
 
-//任何信息侵权，文章内容错误，还有想和我们聊天的。。。**WE R TOGETHER**
+//任何信息侵权，文章内容错误，还有想和我们聊天的。**WE R TOGETHER**
 
 * Email：faustmeow@outlook.com
 
-* Email:***********（才不告诉你呢，有事找FaustCat）
+* [豆瓣](http://www.douban.com/people/101230073/) 
 
-* Telephone：*******
+* [网易云音乐](http://music.163.com/#/user/home?id=53622992)
 
-* QQ：*********
-
-* Github：[喵喵就是猫](https://github.com/chenhongbiao)
+* [Github](https://github.com/unkonw)
 
 ##最后
 
@@ -89,6 +85,6 @@ UNKONW->>o(°▽°o)\\
 
 This is What U should do.（咳咳，不要在意）
 
-谢谢你的来访，谢谢。。。（Good Luck！Ha~Ha~HaHa~~）
+谢谢你的来访，谢谢。（Good Luck！Ha~Ha~HaHa~~）
 
 CRAZY.（妮就没有想对人家说点什么，很可能千年等一回一个外来访客捏）
