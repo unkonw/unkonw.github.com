@@ -34,16 +34,18 @@ category: read
 BUT *Eve Sleeping*
 
  - 保护 关心 守候 陪伴
- 
-  I don't know what is that feeling
-  
-    but it must be wonderful//I also pray i could touch it-maybe
-    
-       now Wali meet his gril and his life have a new `sence`（and will do anything even it's stupid）
-       
-         Forget danger until dream come ture `Fly` `my heart fly` 
+
+>I don't know what is that feeling.
+
+>but it must be wonderful//I also pray could touch it-maybe.
+
+>now Wali meet his gril and his life have a new SENCE.
+
+>And will do anything even it's stupid.
+
+>Forget danger until dream come ture "my heart fly" 
          
-Wall fixed done,but just a machine，no mood ，no name-only work
+>>Wall fixed done,but just a machine,no mood,no name->only work
 
 ###Why come down?(为什么要回去地球)
 

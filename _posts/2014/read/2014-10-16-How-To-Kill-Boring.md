@@ -111,7 +111,7 @@ To become a whatever kind of person is ok, as long as you choose.
 
 梦想的开始应该是『不用顾忌一切道德，法律，任何禁忌的东西！』
 
-`**刺客信条：万物皆虚，万事皆允**`
+	刺客信条：『万物皆虚，万事皆允。』
 
 ###后话
 
