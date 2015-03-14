@@ -71,8 +71,6 @@ UNKONW->>o(°▽°o)\\
 
 //任何信息侵权，文章内容错误，还有想和我们聊天的。**WE R TOGETHER**
 
-* [Email](faustmeow@outlook.com)
-
 * [豆瓣](http://www.douban.com/people/101230073/) 
 
 * [网易云音乐](http://music.163.com/#/user/home?id=53622992)
