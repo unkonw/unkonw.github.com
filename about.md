@@ -3,6 +3,7 @@ layout: post
 title: 关于我们
 permalink: /about/
 ---
+
 **HI!  Welcome to FaustCat & UNKNOW'S HOME.**
 
 
@@ -86,3 +87,7 @@ This is What U should do.（咳咳，不要在意）
 谢谢你的来访，谢谢。（Good Luck！Ha~Ha~HaHa~~）
 
 CRAZY.（妮就没有想对人家说点什么，很可能千年等一回一个外来访客捏）
+
+---
+
+此博客是克隆[涂亮^^](http://tuliang.org/)而成。之前只在[第一篇博文](http://unkonw.github.io/The-Frist-Blog-Essay/)里有提到，诚惶诚恐，再次拜谢。
