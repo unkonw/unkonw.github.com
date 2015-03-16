@@ -6,7 +6,6 @@ permalink: /about/
 
 **HI!  Welcome to FaustCat & UNKNOW'S HOME.**
 
-
 En...好吧，实际上，我是不太欢迎你的。
 
 We'll give u time to think about whether u want stay.
@@ -22,33 +21,21 @@ Everyone is independent.
 ##我们会什么？
 
 FaustCat：
-
-         -  C/C++ Java Acmer Algorithms Operating system
          
-         -  Philosophy Literature Writing Colorful Life
+         -  什么都不会，多少懂一点。
          
 UNKNOW：
 
          -  Draw Sing Listen
          
-
 ##我们对什么感兴趣？
 
 FaustCat：
 
-         - 关于IT科技  逻辑算法  操作系统  人类大脑计划
+         - 我的脑子
          
-         - 关于Know认知，一切关于我们的世界
-         
-         - 关于Think哲学，意识心灵 自我 自由意志 形而上学
-         
-         - 当然还有关于生活的啦^ ^//
-         
-              - 漫画（金田一，全职猎人）
-              - 音乐『网易云音乐』
-              - 电影『豆瓣』
-              - 游戏『Steam』（起凡，跑跑，MC）
-              
+         - 你的脑子
+                      
 UNKNOW：
 
          -  Emotion 
@@ -57,10 +44,9 @@ UNKNOW：
          
          -  FaustCat 不喜欢的东西
 
-
 ##我们的过去？
 
-Faust<<-o(-w -)//抱歉，过去一片混乱，烂摊子拿不出手来。
+Faust<<-o(-w -)//抱歉，过去一片混乱，我也正在尝试理清它。
 
 **Now,I am a computer science major student at NEU.**
 
@@ -70,7 +56,7 @@ UNKONW->>o(°▽°o)\\
 
 ##想要联系我们？
 
-//任何信息侵权，文章内容错误，还有想和我们聊天的。**WE R TOGETHER**
+//任何侵权，文章错误，还有想和我们聊天的。**WE R TOGETHER**
 
 * [豆瓣](http://www.douban.com/people/101230073/) 
 
@@ -90,4 +76,4 @@ CRAZY.（妮就没有想对人家说点什么，很可能千年等一回一个�
 
 ---
 
-此博客是克隆[涂亮^^](http://tuliang.org/)而成。之前只在[第一篇博文](http://unkonw.github.io/The-Frist-Blog-Essay/)里有提到，诚惶诚恐，再次拜谢。
+此博客是克隆[涂亮^ ^](http://tuliang.org/)而成。之前只在[第一篇博文](http://unkonw.github.io/The-Frist-Blog-Essay/)里有提到，诚惶诚恐，再次拜谢。
