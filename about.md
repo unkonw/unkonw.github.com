@@ -6,9 +6,9 @@ permalink: /about/
 
 **HI!  Welcome to FaustCat & UNKNOW'S HOME.**
 
-En...好吧，实际上，我是不太欢迎你的。
+Em...好吧，实际上，我是不太欢迎你的。
 
-We'll give u time to think about whether u want stay.
+We'll give you time to think about whether u want stay.
 
 这是一个隐形的Blog，我们把这里当作自己的私人天地，我可不太愿意除了我以外还有其他人看到这个页面。
 Everyone is independent.
